@@ -2,7 +2,7 @@
 
 包含 CS61A 的笔记、作业等内容
 
-源码位于：https://github.com/
+源码位于：https://github.com/yingli-Claire/CS61A.git
 
 ## 联系我
 
